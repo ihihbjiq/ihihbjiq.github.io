@@ -46,12 +46,27 @@
     }
 
     /* 波浪背景 */
-    header {
-      height: 160px;
+    header { 
+    top: 10%;
+      height: 42px; /* 波浪的高度 - 调整为更小的值 */
       background: url('https://cdn.jsdelivr.net/gh/ihihbjiq/ihihbjiq.github.io@main/images/golf.png') repeat-x bottom;
+      position: relative;
+      animation: waveAnimation 10s linear infinite; /* 添加波浪动画 */
+      margin-bottom: 0; /* 确保没有与下面内容的间隙 */
+    }
+
+    /* 定义波浪动画 */
+    @keyframes waveAnimation {
+      0% {
+        background-position: 0 0; /* 初始位置 */
+      }
+      100% {
+        background-position: 100% 0; /* 结束时向右移动 */
+      }
     }
 
     #form {
+      top: 10%;
       height: 100%;
       background-color: #98d4f3;
       overflow: hidden;
@@ -121,3 +136,4 @@
   </div>
 </body>
 </html>
+
