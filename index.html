@@ -14,17 +14,10 @@
       overflow: hidden;
     }
 
-    /* 动画 */
     @keyframes myfirst {
-      0% {
-        margin-left: -235px;
-      }
-      70% {
-        margin-left: 100%;
-      }
-      100% {
-        margin-left: 100%;
-      }
+      0% { margin-left: -235px; }
+      70% { margin-left: 100%; }
+      100% { margin-left: 100%; }
     }
 
     .fish {
@@ -36,33 +29,21 @@
       animation: myfirst 24s linear infinite;
     }
 
-    #fish {
-      top: 120px;
-    }
+    #fish { top: 120px; }
+    #fish2 { top: 260px; animation-delay: 12s; }
 
-    #fish2 {
-      top: 260px;
-      animation-delay: 12s;
-    }
-
-    /* 波浪背景 */
     header { 
       top: 10%;
-      height: 42px; /* 波浪的高度 - 调整为更小的值 */
+      height: 42px;
       background: url('https://cdn.jsdelivr.net/gh/ihihbjiq/ihihbjiq.github.io@main/images/golf.png') repeat-x bottom;
       position: relative;
-      animation: waveAnimation 10s linear infinite; /* 添加波浪动画 */
-      margin-bottom: 0; /* 确保没有与下面内容的间隙 */
+      animation: waveAnimation 10s linear infinite;
+      margin-bottom: 0;
     }
 
-    /* 定义波浪动画 */
     @keyframes waveAnimation {
-      0% {
-        background-position: 0 0; /* 初始位置 */
-      }
-      100% {
-        background-position: 100% 0; /* 结束时向右移动 */
-      }
+      0% { background-position: 0 0; }
+      100% { background-position: 100% 0; }
     }
 
     #form {
@@ -73,14 +54,13 @@
       position: relative;
     }
 
-    /* 调整头像到顶部中央 */
     .profile-pic {
       width: 120px;
       height: 120px;
       border-radius: 50%;
       border: 3px solid #fff;
       position: absolute;
-      top: 5px; /* 调整头像位置到顶部 */
+      top: 5px;
       left: 50%;
       transform: translateX(-50%);
     }
@@ -90,7 +70,7 @@
       justify-content: center;
       gap: 30px;
       position: absolute;
-      top: 180px; /* 调整社交图标的位置 */
+      top: 180px;
       left: 50%;
       transform: translateX(-50%);
     }
@@ -114,9 +94,8 @@
   </style>
 </head>
 <body>
-  <header></header> <!-- 波浪背景 -->
+  <header></header>
   <div id="form">
-    <!-- 头像移动到顶部 -->
     <img src="https://avatars.githubusercontent.com/u/194747021?v=4" alt="头像" class="profile-pic">
     <div class="icon-container">
       <a href="https://github.com/ihihbjiq" target="_blank" title="GitHub">
@@ -125,18 +104,16 @@
       <a href="https://t.me/ihihbjiq" target="_blank" title="Telegram">
         <img src="https://simpleicons.org/icons/telegram.svg" alt="Telegram">
       </a>
-      <a href="https://x.com/YOUR_X_USERNAME" target="_blank" title="X">
-        <img src="https://simpleicons.org/icons/x.svg" alt="X">
+      <a href="https://wa.me/你的电话号码" target="_blank" title="WhatsApp">
+        <img src="https://simpleicons.org/icons/whatsapp.svg" alt="WhatsApp">
       </a>
-      <a href="https://weixin.qq.com/r/ihihbjiq" target="_blank" title="微信 (ihihbjiq)">
-        <img src="https://simpleicons.org/icons/wechat.svg" alt="微信">
+      <a href="https://weixin.qq.com/r/ihihbjiq" target="_blank" title="WeChat">
+        <img src="https://simpleicons.org/icons/wechat.svg" alt="WeChat">
       </a>
       <a href="https://line.me/ti/p/YOUR_LINE_ID" target="_blank" title="Line">
         <img src="https://simpleicons.org/icons/line.svg" alt="Line">
       </a>
     </div>
-
-    <!-- 鱼的动画部分 -->
     <div class="fish" id="fish"></div>
     <div class="fish" id="fish2"></div>
   </div>
