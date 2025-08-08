@@ -74,12 +74,44 @@
       font-size: 36px;
       color: #333;
       font-weight: bold;
+      white-space: nowrap;
     }
 
-    .check-star {
-      font-size: 36px;
-      color: #f1c40f;
+    .verification-badge {
+      position: relative;
+      display: inline-block;
+      width: 40px;
+      height: 40px;
       margin-left: 10px;
+      vertical-align: middle;
+    }
+
+    .sun-icon {
+      position: absolute;
+      font-size: 40px;
+      color: #f39c12;
+      text-shadow: 0 0 10px rgba(241, 196, 15, 0.7);
+      animation: spin 8s linear infinite;
+      width: 100%;
+      height: 100%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+
+    .check-icon {
+      position: absolute;
+      font-size: 20px;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      z-index: 2;
+      text-shadow: 0 0 3px rgba(243, 156, 18, 0.5);
+    }
+
+    @keyframes spin {
+      0% { transform: rotate(0deg); }
+      100% { transform: rotate(360deg); }
     }
 
     .icon-container {
@@ -141,7 +173,10 @@
   <div id="form">
     <img src="https://avatars.githubusercontent.com/u/194747021?v=4" alt="头像" class="profile-pic">
     <div class="name">ɪʜɪʜʙᴊɪǫ
-      <i class="fas fa-check-circle check-star"></i>
+      <span class="verification-badge">
+        <i class="fas fa-sun sun-icon"></i>
+        <i class="fas fa-check-circle check-icon"></i>
+      </span>
     </div>
     <div class="icon-container">
       <a href="https://github.com/ihihbjiq" target="_blank" title="GitHub">
@@ -161,7 +196,7 @@
       </a>
       <a href="https://x.com/ihihbjiq" target="_blank" title="X (Twitter)">
         <img src="https://simpleicons.org/icons/x.svg" alt="X (Twitter)">
-    </a>
+      </a>
     </div>
     <div class="fish" id="fish"></div>
     <div class="fish" id="fish2"></div>
