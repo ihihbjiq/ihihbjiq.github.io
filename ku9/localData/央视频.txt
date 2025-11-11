@@ -18,6 +18,9 @@ CCTV-14 少儿,http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid=6
 CCTV-15 音乐,http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid=600001815
 CCTV-16 奥林匹克,http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid=600098637
 CCTV-17 农业农村,http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid=600001810
+CCTV风云剧场,http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid=600099658
+CCTV第一剧场,http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid=600099655
+CCTV怀旧剧场,http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid=600099620
 
 卫视,#genre#
 
@@ -54,3 +57,9 @@ CCTV-17 农业农村,http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home
 西藏卫视,http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid=600190403
 新疆卫视,http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid=600152138
 兵团卫视,http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid=600193252
+
+超高清,#genre#
+
+CCTV16 4K,http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid=600099502
+CCTV 4K,http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid=600002264
+CCTV 8K,http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid=600156816
