@@ -62,19 +62,22 @@ CCTV怀旧剧场,http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid
 
 河南,#genre#
 
+河南卫视,http://A/ku9/js/webview.js?id=https://static.hntv.tv/total/television/?id=145
 河南卫视,http://A/ku9/js/webview.js?id=https://static.hntv.tv/kds/#/
 新闻频道,http://A/ku9/js/webview.js?id=https://static.hntv.tv/total/television/?id=149&u-link=1
-都市频道,http://A/ku9/js/webview.js?id=https://www.hndyjyfw.gov.cn/livePlay.html?u=14
-民生频道,http://A/ku9/js/webview.js?id=https://www.hndyjyfw.gov.cn/livePlay.html?u=15
-河南戏曲,http://A/ku9/js/webview.js?id=https://www.hndyjyfw.gov.cn/livePlay.html?u=16
+都市频道,http://A/ku9/js/webview.js?id=https://static.hntv.tv/total/television/?id=141
+民生频道,http://A/ku9/js/webview.js?id=https://static.hntv.tv/total/television/?id=146
+梨园频道,http://A/ku9/js/webview.js?id=https://static.hntv.tv/total/television/?id=154
 法治频道,http://A/ku9/js/webview.js?id=https://static.hntv.tv/total/television/?id=147&u-link=1
 公共频道,http://A/ku9/js/webview.js?id=https://static.hntv.tv/total/television/?id=151&u-link=1
 乡村频道,http://A/ku9/js/webview.js?id=https://static.hntv.tv/total/television/?id=152&u-link=1
 电视剧频道,http://A/ku9/js/webview.js?id=https://static.hntv.tv/total/television/?id=148&u-link=1
 文物宝库,http://A/ku9/js/webview.js?id=https://static.hntv.tv/total/television/?id=155&u-link=1
 武术世界,http://A/ku9/js/webview.js?id=https://static.hntv.tv/total/television/?id=156&u-link=1
+移动戏曲,http://A/ku9/js/webview.js?id=https://static.hntv.tv/total/television/?id=163
 象视界,http://A/ku9/js/webview.js?id=https://static.hntv.tv/total/television/?id=183&u-link=1
 国学频道,http://A/ku9/js/webview.js?id=https://static.hntv.tv/total/television/?id=194&u-link=1
+欢腾购物,http://A/ku9/js/webview.js?id=https://static.hntv.tv/total/television/?id=150
 郑州综合,http://A/ku9/js/webview.js?id=https://static.hntv.tv/total/television/?id=197&u-link=1
 开封综合,http://A/ku9/js/webview.js?id=https://static.hntv.tv/total/television/?id=198&u-link=1
 洛阳综合,http://A/ku9/js/webview.js?id=https://static.hntv.tv/total/television/?id=204&u-link=1
