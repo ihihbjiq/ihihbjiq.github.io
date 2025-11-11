@@ -58,8 +58,8 @@ CCTV怀旧剧场,http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid
 新疆卫视,http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid=600152138
 兵团卫视,http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid=600193252
 
-超高清,#genre#
+高清,#genre#
 
-CCTV16 4K,http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid=600099502
+奥林匹克 4K,http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid=600099502
 CCTV 4K,http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid=600002264
 CCTV 8K,http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid=600156816
