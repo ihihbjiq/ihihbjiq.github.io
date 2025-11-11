@@ -53,3 +53,4 @@ CCTV-17 农业农村,http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home
 青海卫视,http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid=600190406
 西藏卫视,http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid=600190403
 新疆卫视,http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid=600152138
+兵团卫视,http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid=600193252
