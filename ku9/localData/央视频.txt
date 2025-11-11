@@ -21,6 +21,8 @@ CCTV-17 农业农村,http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home
 CCTV风云剧场,http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid=600099658
 CCTV第一剧场,http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid=600099655
 CCTV怀旧剧场,http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid=600099620
+1905电影,http://A/ku9/js/webview.js?id=https://m.1905.com/m/xl/live/
+1905国际电影,http://A/ku9/js/webview.js?id=https://www.1905.com/1905tv/live/
 
 卫视,#genre#
 
