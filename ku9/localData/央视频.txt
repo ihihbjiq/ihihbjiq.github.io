@@ -43,6 +43,7 @@ CCTV-17 农业农村,http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home
 河北卫视,http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid=600002493
 山东卫视,http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid=600002513
 天津卫视,http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid=600152137
+甘肃卫视,http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid=600190408
 吉林卫视,http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid=600190405
 陕西卫视,http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid=600190400
 宁夏卫视,http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid=600190737
