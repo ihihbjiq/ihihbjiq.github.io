@@ -60,43 +60,6 @@ CCTV怀旧剧场,http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid
 新疆卫视,http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid=600152138
 兵团卫视,http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid=600193252
 
-河南,#genre#
-
-河南卫视,http://A/ku9/js/webview.js?id=https://static.hntv.tv/total/television/?id=145&u-link=1
-河南卫视,http://A/ku9/js/webview.js?id=https://static.hntv.tv/kds/#/
-新闻频道,http://A/ku9/js/webview.js?id=https://static.hntv.tv/total/television/?id=149&u-link=1
-都市频道,http://A/ku9/js/webview.js?id=https://static.hntv.tv/total/television/?id=141&u-link=1
-民生频道,http://A/ku9/js/webview.js?id=https://static.hntv.tv/total/television/?id=146&u-link=1
-梨园频道,http://A/ku9/js/webview.js?id=https://static.hntv.tv/total/television/?id=154&u-link=1
-法治频道,http://A/ku9/js/webview.js?id=https://static.hntv.tv/total/television/?id=147&u-link=1
-公共频道,http://A/ku9/js/webview.js?id=https://static.hntv.tv/total/television/?id=151&u-link=1
-乡村频道,http://A/ku9/js/webview.js?id=https://static.hntv.tv/total/television/?id=152&u-link=1
-电视剧频道,http://A/ku9/js/webview.js?id=https://static.hntv.tv/total/television/?id=148&u-link=1
-文物宝库,http://A/ku9/js/webview.js?id=https://static.hntv.tv/total/television/?id=155&u-link=1
-武术世界,http://A/ku9/js/webview.js?id=https://static.hntv.tv/total/television/?id=156&u-link=1
-移动戏曲,http://A/ku9/js/webview.js?id=https://static.hntv.tv/total/television/?id=163&u-link=1
-象视界,http://A/ku9/js/webview.js?id=https://static.hntv.tv/total/television/?id=183&u-link=1
-国学频道,http://A/ku9/js/webview.js?id=https://static.hntv.tv/total/television/?id=194&u-link=1
-欢腾购物,http://A/ku9/js/webview.js?id=https://static.hntv.tv/total/television/?id=150&u-link=1
-郑州综合,http://A/ku9/js/webview.js?id=https://static.hntv.tv/total/television/?id=197&u-link=1
-开封综合,http://A/ku9/js/webview.js?id=https://static.hntv.tv/total/television/?id=198&u-link=1
-洛阳综合,http://A/ku9/js/webview.js?id=https://static.hntv.tv/total/television/?id=204&u-link=1
-平顶山综合,http://A/ku9/js/webview.js?id=https://static.hntv.tv/total/television/?id=205&u-link=1
-安阳综合,http://A/ku9/js/webview.js?id=https://static.hntv.tv/total/television/?id=206&u-link=1
-鹤壁综合,http://A/ku9/js/webview.js?id=https://static.hntv.tv/total/television/?id=207&u-link=1
-新乡综合,http://A/ku9/js/webview.js?id=https://static.hntv.tv/total/television/?id=208&u-link=1
-焦作综合,http://A/ku9/js/webview.js?id=https://static.hntv.tv/total/television/?id=209&u-link=1
-濮阳综合,http://A/ku9/js/webview.js?id=https://static.hntv.tv/total/television/?id=219&u-link=1
-许昌综合,http://A/ku9/js/webview.js?id=https://static.hntv.tv/total/television/?id=220&u-link=1
-漯河综合,http://A/ku9/js/webview.js?id=https://static.hntv.tv/total/television/?id=221&u-link=1
-三门峡综合,http://A/ku9/js/webview.js?id=https://static.hntv.tv/total/television/?id=222&u-link=1
-南阳综合,http://A/ku9/js/webview.js?id=https://static.hntv.tv/total/television/?id=223&u-link=1
-商丘综合,http://A/ku9/js/webview.js?id=https://static.hntv.tv/total/television/?id=224&u-link=1
-信阳综合,http://A/ku9/js/webview.js?id=https://static.hntv.tv/total/television/?id=225&u-link=1
-周口综合,http://A/ku9/js/webview.js?id=https://static.hntv.tv/total/television/?id=225&u-link=1
-驻马店综合,http://A/ku9/js/webview.js?id=https://static.hntv.tv/total/television/?id=227&u-link=1
-济源综合,http://A/ku9/js/webview.js?id=https://static.hntv.tv/total/television/?id=228&u-link=1
-
 高清,#genre#
 
 奥林匹克 4K,http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid=600099502
