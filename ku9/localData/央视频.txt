@@ -48,7 +48,7 @@ CCTV怀旧剧场,http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid
 河北卫视,http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid=600002493
 山东卫视,http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid=600002513
 天津卫视,http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid=600152137
-甘肃卫视,http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid=600190408
+ ̶甘̶肃̶卫̶视̶,http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid=600190408
 吉林卫视,http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid=600190405
 陕西卫视,http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid=600190400
 宁夏卫视,http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid=600190737
@@ -58,10 +58,10 @@ CCTV怀旧剧场,http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid
 青海卫视,http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid=600190406
 西藏卫视,http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid=600190403
 新疆卫视,http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid=600152138
-兵团卫视,http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid=600193252
+ ̶兵̶团̶卫̶视̶,http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid=600193252
 
 高清,#genre#
 
-奥林匹克 4K,http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid=600099502
+CCTV-16 4K,http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid=600099502
 CCTV 4K,http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid=600002264
 CCTV 8K,http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid=600156816
