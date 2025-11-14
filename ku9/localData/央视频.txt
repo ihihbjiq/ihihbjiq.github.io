@@ -48,7 +48,6 @@ CCTV怀旧剧场,http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid
 河北卫视,http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid=600002493
 山东卫视,http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid=600002513
 天津卫视,http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid=600152137
-三沙卫视,https://srs.ssws.tv/video/sstv-10/index.m3u8
 吉林卫视,http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid=600190405
 陕西卫视,http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid=600190400
 农林卫视,http://stream.snrtv.com/sxbc-nl-hxAJSU.m3u8
@@ -60,7 +59,6 @@ CCTV怀旧剧场,http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid
 西藏卫视,http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid=600190403
 新疆卫视,http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid=600152138
 兵团卫视,http://A/ku9/js/webview.js?id=https://www.btzx.com.cn/2024new/new_zhibo/index.shtml
-延边卫视,https://srs.iyb983.cn/video/CYS/index.m3u8
 
 高清,#genre#
 
