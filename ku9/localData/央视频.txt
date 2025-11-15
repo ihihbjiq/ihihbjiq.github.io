@@ -11,7 +11,7 @@ CCTV-7 国防军事,http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?
 CCTV-8 电视剧,http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid=600001803
 CCTV-9 纪录,http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid=600004078
 CCTV-10 科教,http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid=600001805
-CCTV-10 科教,http://A/ku9/js/webview.js?id=https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=14589146016461298119
+CCTV-10 科教,http://A/ku9/js/webview.js?id=https://tv.cctv.com/live/cctv10/
 CCTV-11 戏曲,http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid=600001806
 CCTV-12 社会与法,http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid=600001807
 CCTV-13 新闻,http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid=600001811
