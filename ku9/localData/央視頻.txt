@@ -58,7 +58,6 @@ CCTV怀旧剧场,http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid
 青海卫视,http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid=600190406
 西藏卫视,http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid=600190403
 新疆卫视,http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid=600152138
-兵团卫视,http://A/ku9/js/webview.js?id=https://www.btzx.com.cn/2024new/new_zhibo/index.shtml
 
 高清,#genre#,JS=https://ihihbjiq.github.io/ku9/js/webview.js
 
