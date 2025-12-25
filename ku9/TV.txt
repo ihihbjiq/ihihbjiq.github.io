@@ -6,8 +6,8 @@ CCTV-2 财经,http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid=60
 CCTV-2 财经,http://A/ku9/js/webview.js?id=https://tv.cctv.com/live/cctv2/
 CCTV-3 综艺,http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid=600001801
 CCTV-3 综艺,http://A/ku9/js/webview.js?id=https://tv.cctv.com/live/cctv3/
-CCTV-4 中文国际（亚）,http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid=600001814
-CCTV-4 中文国际（亚）,http://A/ku9/js/webview.js?id=https://tv.cctv.com/live/cctv4/
+CCTV-4 中文国际,http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid=600001814
+CCTV-4 中文国际,http://A/ku9/js/webview.js?id=https://tv.cctv.com/live/cctv4/
 CCTV-5 体育,http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid=600001818
 CCTV-5 体育,http://A/ku9/js/webview.js?id=https://tv.cctv.com/live/cctv5/
 CCTV-5+ 体育赛事,http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid=600001817
